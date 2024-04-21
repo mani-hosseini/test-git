@@ -1,3 +1,7 @@
 body{
     display: block;
 }
+h1{
+    color: rebeccapurple;
+    font-size: 30px;
+}
