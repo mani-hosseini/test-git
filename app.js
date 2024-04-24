@@ -5,3 +5,4 @@ const userAge = ()=> {
 const login = () =>{
     return false;
 }
+console.log(mani);
