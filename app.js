@@ -6,3 +6,6 @@ const login = () =>{
     return false;
 }
 console.log(mani);
+const set = ()=>{
+    return true
+}
