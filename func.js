@@ -5,3 +5,6 @@ const set = ()=>{
 const setup = ()=>{
     return false
 }
+const mani = ()=>{
+    return true
+}
